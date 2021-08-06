@@ -1,0 +1,36 @@
+Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11Initial (invalid) T-test p-value: 8.36e-21
+Original data normality p-values: 3.21e-158 6.11e-10
+Original data equal-variance p-value: 7.63e-89
+Transformed data normality p-values: 0.000317 6.73e-14
+Transformed data equal-variance p-value: 1.73e-79
+Mann-Whitney U-test p-value: 2.74e-11
